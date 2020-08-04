@@ -1,0 +1,15 @@
+The main objective of the room is to test your CTF skills. For your information,
+vol.1 consists of 20 tasks and all the challenges are extremely easy.Stay calm 
+and Capture the flag. :)
+
+Note: All the challenges flag are formatted as THM{flag}, unless stated otherwise.
+
+
+[Task 2] What does the base said?
+
+Can you decode the following? VEhNe2p1NTdfZDNjMGQzXzdoM19iNDUzfQ==
+Hint: This string is base64 encoded. Equals(=) sign recognised it. 
+Sol: The base 64 decoder easily decodes and gives you flag. 
+THM{ju57_d3c0d3_7h3_b453}
+
+[Task 3] Meta meta
